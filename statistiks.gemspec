@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Statistiks::VERSION
   spec.authors       = ["João Daniel"]
   spec.email         = ["jdanielnd@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Statistical tools for Ruby"
+  spec.description   = "A suite of statistical tools for Ruby language"
+  spec.homepage      = "https://github.com/jdanielnd/statistiks"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
