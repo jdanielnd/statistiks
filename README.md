@@ -1,5 +1,7 @@
 # Statistiks
 
+[![Build Status](https://travis-ci.org/jdanielnd/statistiks.svg)](https://travis-ci.org/jdanielnd/statistiks)
+
 Statistiks is a suite of statistical tools for Ruby language
 
 ## Installation
