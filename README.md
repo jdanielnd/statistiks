@@ -1,6 +1,6 @@
 # Statistiks
 
-[![Build Status](https://travis-ci.org/jdanielnd/statistiks.svg)](https://travis-ci.org/jdanielnd/statistiks)
+[![Build Status](https://travis-ci.org/jdanielnd/statistiks.svg)](https://travis-ci.org/jdanielnd/statistiks) [![Gem Version](https://badge.fury.io/rb/statistiks.svg)](http://badge.fury.io/rb/statistiks) [![Coverage Status](https://img.shields.io/coveralls/jdanielnd/statistiks.svg)](https://coveralls.io/r/jdanielnd/statistiks)
 
 Statistiks is a suite of statistical tools for Ruby language
 
